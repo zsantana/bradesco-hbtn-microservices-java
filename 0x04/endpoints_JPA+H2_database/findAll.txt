@@ -1,28 +1,28 @@
 [
     {
-        "id": 1,
-        "idade": 40,
-        "nome": "Ze Fulano",
-        "email": "zezinho@email.com",
-        "telefones": [
-            {
-                "id": 3,
-                "cliente_id": 1,
-                "ddd": "18",
-                "numero": "98253636"
-            }
-        ],
-        "enderecos": [
-            {
-                "id": 1,
-                "bairro": "CENTRO",
-                "cidade": "CIDADE DO NORTE",
-                "endereco": "ALI PERTO",
-                "estado": "SP",
-                "logradouro": "AVENIDA",
-                "numero": "100"
-            }
-        ]
+      "id": 1,
+      "idade": 40,
+      "nome": "Ze Fulano",
+      "email": "zezinho@email.com",
+      "telefones": [
+          {
+              "id": 3,
+              "cliente_id": 1,
+              "ddd": "18",
+              "numero": "98253636"
+          }
+      ],
+      "enderecos": [
+          {
+              "id": 1,
+              "bairro": "CENTRO",
+              "cidade": "CIDADE DO NORTE",
+              "endereco": "ALI PERTO",
+              "estado": "SP",
+              "logradouro": "AVENIDA",
+              "numero": "100"
+          }
+      ]
     },
     {
         "id": 2,
