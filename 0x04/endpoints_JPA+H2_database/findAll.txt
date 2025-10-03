@@ -14,6 +14,7 @@
         ],
         "enderecos": [
             {
+                "id": 1,
                 "bairro": "CENTRO",
                 "cidade": "CIDADE DO NORTE",
                 "endereco": "ALI PERTO",
@@ -44,6 +45,7 @@
         ],
         "enderecos": [
             {
+                "id": 2,
                 "bairro": "JARDIM BONITO",
                 "cidade": "CIDADE DO NORTE",
                 "endereco": "LÁ LONGE",
