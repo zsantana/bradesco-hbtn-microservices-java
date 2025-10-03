@@ -1,17 +1,17 @@
 [
   {
     "id": 1,
-    "nome": "Música 1",
-    "artista": "Artista 1",
-    "album": "Album 1",
-    "anoLancamento": "Ano 1"
+    "nome": "Bohemian Rhapsody",
+    "artista": "Queen",
+    "album": "A Night at the Opera",
+    "anoLancamento": "1975"
   },
   {
     "id": 2,
-    "nome": "Nome da Música 2",
-    "artista": "Artista 2",
-    "album": "Album 2",
-    "anoLancamento": "Ano 2"
+    "nome": "Imagine",
+    "artista": "John Lennon",
+    "album": "Imagine",
+    "anoLancamento": "1971"
   },
   {
     "id": 3,
