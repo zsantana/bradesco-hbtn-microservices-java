@@ -1,7 +1,7 @@
 {
-    "id": 2,
-    "nome": "Nome da Música 2",
-    "artista": "Artista 2",
-    "album": "Album 2",
-    "anoLancamento": "Ano 2"
+    "id": 1,
+    "nome": "Imagine",
+    "artista": "John Lennon",
+    "album": "Imagine",
+    "anoLancamento": "1971"
 }
