@@ -1,1 +1,7 @@
-Bem-vindo ao serviço de músicas!
+{
+    "id": 3,
+    "nome": "Sweet Child O 'Mine",
+    "artista": "Guns N' Roses",
+    "album": "Appetite for Destruction",
+    "anoLancamento": "1987"
+}
