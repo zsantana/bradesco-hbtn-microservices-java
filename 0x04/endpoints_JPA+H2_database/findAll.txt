@@ -25,34 +25,34 @@
       ]
     },
     {
-        "id": 2,
-        "idade": 26,
-        "nome": "Manoel Antunes",
-        "email": "manoel@email.com",
-        "telefones": [
-            {
-                "id": 1,
-                "cliente_id": 2,
-                "ddd": "14",
-                "numero": "35445585"
-            },
-            {
-                "id": 2,
-                "cliente_id": 2,
-                "ddd": "14",
-                "numero": "99668855"
-            }
-        ],
-        "enderecos": [
-            {
-                "id": 2,
-                "bairro": "JARDIM BONITO",
-                "cidade": "CIDADE DO NORTE",
-                "endereco": "LÁ LONGE",
-                "estado": "SP",
-                "logradouro": "RUA",
-                "numero": "487"
-            }
-        ]
+      "id": 2,
+      "idade": 26,
+      "nome": "Manoel Antunes",
+      "email": "manoel@email.com",
+      "telefones": [
+          {
+              "id": 1,
+              "cliente_id": 2,
+              "ddd": "14",
+              "numero": "35445585"
+          },
+          {
+              "id": 2,
+              "cliente_id": 2,
+              "ddd": "14",
+              "numero": "99668855"
+          }
+      ],
+      "enderecos": [
+          {
+              "id": 2,
+              "bairro": "JARDIM BONITO",
+              "cidade": "CIDADE DO NORTE",
+              "endereco": "LÁ LONGE",
+              "estado": "SP",
+              "logradouro": "RUA",
+              "numero": "487"
+          }
+      ]
     }
 ]
