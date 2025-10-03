@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nome": "Música 1",
+    "artista": "Artista 1",
+    "album": "Album 1",
+    "anoLancamento": "Ano 1"
+  },
+  {
+    "id": 2,
+    "nome": "Nome da Música 2",
+    "artista": "Artista 2",
+    "album": "Album 2",
+    "anoLancamento": "Ano 2"
+  },
+  {
+    "id": 3,
+    "nome": "Sweet Child O 'Mine",
+    "artista": "Guns N' Roses",
+    "album": "Appetite for Destruction",
+    "anoLancamento": "1987"
+  }
+]
