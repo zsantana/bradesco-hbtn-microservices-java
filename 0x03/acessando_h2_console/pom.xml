@@ -9,7 +9,7 @@
   <artifactId>demo</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>demo</name>
-  <description>Projeto Demo usando Spring Boot JPA</description
+  <description>Projeto Demo usando Spring Boot JPA</description>
   <packaging>jar</packaging>
 
   <parent>
