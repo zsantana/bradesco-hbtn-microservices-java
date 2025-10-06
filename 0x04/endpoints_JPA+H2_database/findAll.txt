@@ -1,43 +1,55 @@
 [
-  {
-    "id": 1,
-    "idade": 40,
-    "nome": "Ze Fulano",
-    "email": "zezinho@email.com",
-    "telefones": [
-      { "id": 3, "ddd": "18", "numero": "98253636" }
-    ],
-    "enderecos": [
-      {
+    {
         "id": 1,
-        "bairro": "CENTRO",
-        "cidade": "CIDADE DO NORTE",
-        "logradouro": "AVENIDA",
-        "endereco": "ALI PERTO",
-        "numero": "100",
-        "estado": "SP"
-      }
-    ]
-  },
-  {
-    "id": 2,
-    "idade": 26,
-    "nome": "Manoel Antunes",
-    "email": "manoel@email.com",
-    "telefones": [
-      { "id": 1, "ddd": "14", "numero": "35445585" },
-      { "id": 2, "ddd": "14", "numero": "99668855" }
-    ],
-    "enderecos": [
-      {
+        "idade": 40,
+        "nome": "Ze Fulano",
+        "email": "zezinho@email.com",
+        "telefones": [
+            {
+                "id": 3,
+                "ddd": "18",
+                "numero": "98253636"
+            }
+        ],
+        "enderecos": [
+            {
+                "id": 1,
+                "bairro": "CENTRO",
+                "cidade": "CIDADE DO NORTE",
+                "logradouro": "AVENIDA",
+                "endereco": "ALI PERTO",
+                "numero": "100",
+                "estado": "SP"
+            }
+        ]
+    },
+    {
         "id": 2,
-        "bairro": "JARDIM BONITO",
-        "cidade": "CIDADE DO NORTE",
-        "logradouro": "RUA",
-        "endereco": "LÁ LONGE",
-        "numero": "487",
-        "estado": "SP"
-      }
-    ]
-  }
+        "idade": 26,
+        "nome": "Manoel Antunes",
+        "email": "manoel@email.com",
+        "telefones": [
+            {
+                "id": 1,
+                "ddd": "14",
+                "numero": "35445585"
+            },
+            {
+                "id": 2,
+                "ddd": "14",
+                "numero": "99668855"
+            }
+        ],
+        "enderecos": [
+            {
+                "id": 2,
+                "bairro": "JARDIM BONITO",
+                "cidade": "CIDADE DO NORTE",
+                "logradouro": "RUA",
+                "endereco": "LÁ LONGE",
+                "numero": "487",
+                "estado": "SP"
+            }
+        ]
+    }
 ]
