@@ -1,5 +1,4 @@
 {
-
     "id": 2,
     "nome": "Manoel Antunes",
     "idade": 26,
