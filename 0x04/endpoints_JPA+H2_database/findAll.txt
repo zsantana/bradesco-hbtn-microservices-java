@@ -1,6 +1,7 @@
 [
     {
         "id": 1,
+        "nome": "Ze Fulano",
         "idade": 40,
         "email": "zezinho@email.com",
         "telefones": [
@@ -13,17 +14,18 @@
         "enderecos": [
             {
                 "id": 1,
-                "bairro": "CENTRO", 
-                "cidade": "CIDADE DO NORTE", 
                 "logradouro": "AVENIDA",
                 "endereco": "ALI PERTO",
                 "numero": "100",
+                "bairro": "CENTRO",
+                "cidade": "CIDADE DO NORTE",
                 "estado": "SP"
             }
         ]
     },
     {
         "id": 2,
+        "nome": "Manoel Antunes",
         "idade": 26,
         "email": "manoel@email.com",
         "telefones": [
@@ -41,11 +43,11 @@
         "enderecos": [
             {
                 "id": 2,
-                "bairro": "JARDIM BONITO",
-                "cidade": "CIDADE DO NORTE",
                 "logradouro": "RUA",
                 "endereco": "LÁ LONGE",
                 "numero": "487",
+                "bairro": "JARDIM BONITO",
+                "cidade": "CIDADE DO NORTE",
                 "estado": "SP"
             }
         ]
